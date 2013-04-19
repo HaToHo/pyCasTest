@@ -1,4 +1,3 @@
-import pycascheck
 from pycas import cas
 from flask import Flask
 from flask import redirect
